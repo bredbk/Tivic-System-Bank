@@ -1,0 +1,76 @@
+{
+  "cliente": [
+    {
+      "id": 1,
+      "name": "Brendon",
+      "account": "123456",
+      "balance": 1414522
+    },
+    {
+      "id": 2,
+      "name": "Anderson",
+      "account": "161898",
+      "balance": 1414522
+    },
+    {
+      "id": 3,
+      "name": "Wanderson",
+      "account": "161897",
+      "balance": 1414522
+    },
+    {
+      "id": 4,
+      "name": "Dominic",
+      "account": "161895",
+      "balance": 1414522
+    },
+    {
+      "id": 5,
+      "name": "John",
+      "account": "163495",
+      "balance": 1414522
+    },
+    {
+      "name": "Josef",
+      "account": "4545",
+      "balance": "555",
+      "id": 6
+    },
+    {
+      "name": "Neuda Maria",
+      "account": "88383838",
+      "balance": "10000",
+      "id": 7
+    },
+    {
+      "name": "",
+      "account": 0,
+      "balance": 0,
+      "id": 8
+    },
+    {
+      "name": "",
+      "account": "161898",
+      "balance": "12121212121",
+      "id": 9
+    },
+    {
+      "name": "",
+      "account": "4444",
+      "balance": "44444",
+      "id": 10
+    },
+    {
+      "name": "auhauahua",
+      "account": "6655566",
+      "balance": "665544444",
+      "id": 11
+    },
+    {
+      "name": "uhuhuhu",
+      "account": "01121",
+      "balance": "02222",
+      "id": 12
+    }
+  ]
+}
